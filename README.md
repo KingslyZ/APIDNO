@@ -12,8 +12,8 @@ We propose an adaptive physics-informed DeepONet (API-DONet), a knowledge-guided
 
 ## 🏗️ Project Structure
 project/
--├── data/ 
--├── src/ 
--├── models/ 
--├── requirements.txt 
--└── README.md 
+- ├── data/ 
+- ├── src/ 
+- ├── models/ 
+- ├── requirements.txt 
+- └── README.md 
